@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Begusarai</title>
+</head>
+<body background="Begusarai.jpg" style="color: red;">
+    <marquee bgcolor="yellow" behavior="alternate" width="70%"><h1>BEGUSARAI      💕 HAI         HAMARA </h1></marquee>
+     <h2><a href="file:///F:/link-1.html">Home</a>
+        &nbsp; 
+     <a href="file:///F:/city%20guide.html">City Guide</a>
+     &nbsp; 
+     <a href="file:///F:/about%20begusarai.html">About Begusarai</a>
+     &nbsp; 
+     <a href="file:///F:/touist.html">Tourist Place</a>
+     &nbsp; 
+     <a href="file:///F:/history.html">History</a>
+     </h2>
+     
+</body>
+</html>
